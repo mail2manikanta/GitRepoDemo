@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitRepoDemo/RepoNetworkService.swift"
+            timestampString = "547138761.5769939"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "loadRepos(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GitRepoDemo.RepoService.loadRepos(Swift.String, Swift.Int, (Swift.Optional&lt;Swift.Array&lt;GitRepoDemo.Repo&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "GitRepoDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manikanta/Desktop/practice/GitRepoDemo/GitRepoDemo/RepoNetworkService.swift"
+                  timestampString = "547138849.3280441"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "966">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GitRepoDemo.RepoService.loadRepos(Swift.String, Swift.Int, (Swift.Optional&lt;Swift.Array&lt;GitRepoDemo.Repo&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "GitRepoDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manikanta/Desktop/practice/GitRepoDemo/GitRepoDemo/RepoNetworkService.swift"
+                  timestampString = "547138849.331875"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
